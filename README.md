@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @eliphang 🐘🧛
+# @eliphang 🐘🧛
 
 This is my anonymous account for working on censorship resistant tools.
 
@@ -18,8 +18,9 @@ You can message @eliphang on discord.
 
 ## Projects
 
-### Spicy Moves
+### Spicy Combos
 
+* [Repo](https://github.com/eliphang/spicy-combos)
 * [Discord](https://discord.gg/yaEXnWUQN3)
 
 <!---
