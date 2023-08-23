@@ -22,8 +22,3 @@ You can message @eliphang on discord.
 
 * [Repo](https://github.com/eliphang/spicy-combos)
 * [Discord](https://discord.gg/yaEXnWUQN3)
-
-<!---
-eliphang/eliphang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
