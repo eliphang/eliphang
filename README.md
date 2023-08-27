@@ -14,7 +14,7 @@ This address accepts all tokens on all ethereum-related (EVM) chains.
 
 ### Blog
 
-You can also support the smart contract deployment fund by minting an edition of a blog post for as little as .0001 ETH
+You can also support the smart contract deployment fund by [minting an edition of a blog post for as little as .0001 ETH](https://mirror.xyz/0xD9A74470665BB09F6C3D35457d53a010FD7c9c52)
 
 ## Contact me
 
