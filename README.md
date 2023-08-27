@@ -12,6 +12,10 @@ If you send me funds, you can tell me which tools you'd like me to deploy to whi
 
 This address accepts all tokens on all ethereum-related (EVM) chains.
 
+### Blog
+
+You can also support the smart contract deployment fund by minting an edition of a blog post for as little as .0001 ETH
+
 ## Contact me
 
 You can message @eliphang on discord.
