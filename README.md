@@ -20,6 +20,8 @@ You can also support the smart contract deployment fund by [minting an edition o
 
 You can message @eliphang on discord.
 
+Natív magyar beszélő vagyok, tehát ha velem akarsz beszélni, ne habozzon.
+
 ## Projects
 
 ### Spicy Combos
