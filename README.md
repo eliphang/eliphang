@@ -4,7 +4,7 @@ This is my anonymous account for working on censorship resistant games.
 
 ## Smart contract deployment fund
 
-If you send me funds, you can tell me which tools you'd like me to deploy to which blockchains.
+If you send me funds, you can tell me which games or tools you'd like me to deploy to which blockchains.
 
 0xD9A74470665BB09F6C3D35457d53a010FD7c9c52
 
