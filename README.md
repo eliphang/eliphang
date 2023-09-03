@@ -1,6 +1,6 @@
 # @eliphang 🐘🧛
 
-This is my anonymous account for working on censorship resistant tools.
+This is my anonymous account for working on censorship resistant games (tools).
 
 ## Smart contract deployment fund
 
