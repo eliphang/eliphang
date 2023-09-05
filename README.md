@@ -16,6 +16,9 @@ You can message @eliphang on discord.
 
 Natív magyar beszélő vagyok, tehát ha velem akarsz beszélni, ne habozzon.
 
-## Games Discord
+## Games
+* [Spicy Combos](https://github.com/eliphang/spicy-combos)
+* [Forking Hex](https://github.com/eliphang/forking-hex)
+
 Talk about my games here.
-* [Discord](https://discord.gg/yaEXnWUQN3)
+* [Spicy Combos Discord](https://discord.gg/yaEXnWUQN3)
