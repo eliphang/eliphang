@@ -21,4 +21,4 @@ Natív magyar beszélő vagyok, tehát ha velem akarsz beszélni, ne habozzon.
 * [Forking Hex](https://github.com/eliphang/forking-hex)
 
 ### Discord
-Talk about my games on the [Spicy Combos discord](https://discord.gg/yaEXnWUQN3).
+Talk about my games in the [Spicy Combos discord](https://discord.gg/yaEXnWUQN3).
