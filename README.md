@@ -14,8 +14,6 @@ You can also support the smart contract deployment fund by [minting an edition o
 ## Contact me
 You can message @eliphang on discord.
 
-Natív magyar beszélő vagyok, tehát ha velem akarsz beszélni, ne habozzon.
-
 ## Games
 * [Spicy Combos](https://github.com/eliphang/spicy-combos)
 * [Forking Hex](https://github.com/eliphang/forking-hex)
