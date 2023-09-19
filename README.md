@@ -15,8 +15,8 @@ You can also support the smart contract deployment fund by [minting an edition o
 You can message @eliphang on discord.
 
 ## Games
-* [Spicy Combos](https://github.com/eliphang/spicy-combos)
 * [Forking Hex](https://github.com/eliphang/forking-hex)
+* [Spicy Combos](https://github.com/eliphang/spicy-combos) (defunct)
 
 ### Discord
-Talk about my games in the [Spicy Combos discord](https://discord.gg/yaEXnWUQN3).
+Talk about my games in the [Eliphang's games discord](https://discord.gg/yaEXnWUQN3).
