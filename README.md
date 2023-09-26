@@ -16,7 +16,6 @@ You can message @eliphang on discord.
 
 ## Games
 * [Forking Hex](https://github.com/eliphang/forking-hex)
-* [Spicy Combos](https://github.com/eliphang/spicy-combos) (defunct)
 
 ### Discord
 Talk about my games in the [Eliphang's games discord](https://discord.gg/yaEXnWUQN3).
